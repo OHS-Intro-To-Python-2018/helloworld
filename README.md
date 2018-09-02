@@ -1,2 +1,2 @@
 # helloworld
-# Submit Your Source Coce For Hello World program to this repository
+Submit your Python source code For Hello World program to this repository
